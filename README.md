@@ -11,7 +11,7 @@ By elbow method we can know the optimum k value to be used.
 3)Model Building
 Implementing K means algorithm for segregating customers in different groups. 
 
-#Visualisation of final output
-The clustered data is visualised on a 3D plot
+# Visualisation of final output
+The clustered data is visualised on a 3D plot.
 
 
